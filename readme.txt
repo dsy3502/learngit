@@ -1,4 +1,4 @@
 git is a version control system
 git is free software
-I am so stupid
+怎样发布thrift服
 
